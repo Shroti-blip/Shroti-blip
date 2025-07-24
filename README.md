@@ -70,6 +70,6 @@
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shroti-blip&show_icons=true&locale=en" alt="Muskan" /></p>
     
     
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shroti-blip&" alt="Muskan" /> </p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shroti-blip&" alt="Muskan" /></p>
     
     
