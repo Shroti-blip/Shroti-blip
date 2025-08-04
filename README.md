@@ -7,7 +7,7 @@
         src="https://komarev.com/ghpvc/?username=shroti-slip&label=Profile%20views&color=0e75b6&style=flat"
         alt="shroti-slip" /> </p>
 
-- 🌱 I’m currently learning Java, Java-Script and Web Development
+- 🌱 I’m currently learning Java, Java-Script , SpringBoot and Web Development
 
 - 👨‍💻 All of my projects are available at [Github.com/Shroti-blip](Github.com/Shroti-blip)
 
